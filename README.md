@@ -1,4 +1,4 @@
 # Learning Python
 My scripts for learning Python
 
-test.py description
+alarm-solution.py description
